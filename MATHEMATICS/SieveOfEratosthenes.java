@@ -2,8 +2,7 @@ package MATHEMATICS;
 import java.lang.*;
 import java.util.Arrays;
 import java.util.Scanner;
-/*
-    step1: First make a function of Sieve with parameter num
+/*  step1: First make a function of Sieve with parameter num
     step2: make a Boolean Array of size [num + 1]
     step3: Find prime factors and mark them as False suppose, 2*2=4 , 2*3=6..... and 3*2=6 , 3*3=9 ... and 5*2=10, 5*3=15, .... so on.
     step4: print all the true after marking all composites numbers as false.
